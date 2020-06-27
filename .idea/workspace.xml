@@ -25,9 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86e4560a-b03f-4b2a-8a9b-407daf337c54" name="Default Changelist" comment="submit">
-      <change afterPath="$PROJECT_DIR$/pytube_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scrapcodes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scrapcodes.iml" afterDir="false" />
+    <list default="true" id="86e4560a-b03f-4b2a-8a9b-407daf337c54" name="Default Changelist" comment="try catch naam hai c to f table hai ye">
+      <change afterPath="$PROJECT_DIR$/datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxwater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqrtINT.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +64,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.pytube_test">
-    <configuration name="pytube_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sqrtINT">
+    <configuration name="datetime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrapcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +77,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytube_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datetime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,19 +86,82 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lastword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrapcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Phoenix\PycharmProjects\Amzon\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lastword.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sqrtINT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqrtINT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="swapvariables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/swapvariables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trycath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trycath" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,8 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pytube_test" />
-        <item itemvalue="Python.sample" />
+        <item itemvalue="Python.sqrtINT" />
+        <item itemvalue="Python.datetime" />
+        <item itemvalue="Python.lastword" />
+        <item itemvalue="Python.trycath" />
+        <item itemvalue="Python.swapvariables" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +205,35 @@
       <option name="project" value="LOCAL" />
       <updated>1588489597086</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="submit">
+      <created>1588590480184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588590480184</updated>
+    </task>
+    <task id="LOCAL-00004" summary="swap&#10;#without comma or bracket">
+      <created>1590333362611</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590333362611</updated>
+    </task>
+    <task id="LOCAL-00005" summary="try catch naam hai c to f table hai ye">
+      <created>1590872646472</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590872646472</updated>
+    </task>
+    <task id="LOCAL-00006" summary="last word leetcode">
+      <created>1591157604958</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591157604958</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,9 +262,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="submit" />
-    <option name="LAST_COMMIT_MESSAGE" value="submit" />
+    <MESSAGE value="swap&#10;#without comma or bracket" />
+    <MESSAGE value="try catch naam hai c to f table hai ye" />
+    <MESSAGE value="last word leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="last word leetcode" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="449" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590869377794">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="449" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1590869377794" />
     <state x="392" y="0" key="#sample" timestamp="1588234685575">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -178,30 +280,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1588235066950" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1588589925862">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1593235680668">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588589925862" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1588589925862">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593235680668" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1593235680668">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588589925862" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1588589925861">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593235680668" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1593235680668">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588589925861" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1588589925862">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593235680668" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1593235680668">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588589925862" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593235680668" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1593235628730">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593235628730" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1593235628730">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593235628730" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1593235628730">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593235628730" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1593235628730">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593235628730" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1588589400640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588589400640" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1588489613678">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1591157623266">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588489613678" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591157623266" />
     <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588234825148">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
