@@ -25,19 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86e4560a-b03f-4b2a-8a9b-407daf337c54" name="Default Changelist" comment="LONGESTpalindromicSubstring">
-      <change afterPath="$PROJECT_DIR$/DonutRebate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SubArrwithaGivenSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aggressivecows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gasstation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saveenergy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subsetsall.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scrapcodes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scrapcodes.iml" afterDir="false" />
+    <list default="true" id="86e4560a-b03f-4b2a-8a9b-407daf337c54" name="Default Changelist" comment="aztestprep">
+      <change afterPath="$PROJECT_DIR$/distributecandy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/majorityinfo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datetime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aggressivecows.py" beforeDir="false" afterPath="$PROJECT_DIR$/aggressivecows.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,49 +72,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="pyconsole" />
   </component>
-  <component name="RunManager" selected="Python.issparsematrix">
-    <configuration name="PyO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="scrapcodes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyO.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SubArrwithaGivenSum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="scrapcodes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SubArrwithaGivenSum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.distributecandy">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="scrapcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,6 +87,49 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aggressivecows" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aggressivecows.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="distributecandy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_USE_CYTHON" value="0" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../codes/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/distributecandy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,19 +181,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="saveenergy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="majorityinfo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrapcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_USE_CYTHON" value="0" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../codes/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/saveenergy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/majorityinfo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,18 +205,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.gasstation" />
-      <item itemvalue="Python.PyO" />
-      <item itemvalue="Python.saveenergy" />
-      <item itemvalue="Python.SubArrwithaGivenSum" />
       <item itemvalue="Python.issparsematrix" />
+      <item itemvalue="Python.aggressivecows" />
+      <item itemvalue="Python.majorityinfo" />
+      <item itemvalue="Python.distributecandy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.distributecandy" />
+        <item itemvalue="Python.majorityinfo" />
+        <item itemvalue="Python.aggressivecows" />
         <item itemvalue="Python.issparsematrix" />
         <item itemvalue="Python.gasstation" />
-        <item itemvalue="Python.saveenergy" />
-        <item itemvalue="Python.PyO" />
-        <item itemvalue="Python.SubArrwithaGivenSum" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611897271672</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="aztestprep">
+      <created>1615957728948</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1615957728948</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,6 +345,7 @@
     <MESSAGE value="2240 ms leetcode" />
     <MESSAGE value="LONGESTpalindromicSubstring" />
     <MESSAGE value="rock papaer scissors" />
-    <option name="LAST_COMMIT_MESSAGE" value="rock papaer scissors" />
+    <MESSAGE value="aztestprep" />
+    <option name="LAST_COMMIT_MESSAGE" value="aztestprep" />
   </component>
 </project>
