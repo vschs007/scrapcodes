@@ -26,8 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86e4560a-b03f-4b2a-8a9b-407daf337c54" name="Default Changelist" comment="aztestprep">
-      <change afterPath="$PROJECT_DIR$/BeautifulArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mergesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/badmachinee.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +70,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="pyconsole" />
   </component>
-  <component name="RunManager" selected="Python.mergesort">
+  <component name="RunManager" selected="Python.badmachinee">
     <configuration name="BeautifulArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrapcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,6 +137,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="badmachinee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_USE_CYTHON" value="0" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../codes/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/badmachinee.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="bitmanipulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrapcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,28 +173,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bitmanipulation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="chefrestaurant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="scrapcodes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="PYDEVD_USE_CYTHON" value="0" />
-      </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../codes/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chefrestaurant.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,17 +206,17 @@
     <list>
       <item itemvalue="Python.FINANCE" />
       <item itemvalue="Python.bitmanipulation" />
-      <item itemvalue="Python.chefrestaurant" />
       <item itemvalue="Python.BeautifulArray" />
       <item itemvalue="Python.mergesort" />
+      <item itemvalue="Python.badmachinee" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.badmachinee" />
         <item itemvalue="Python.mergesort" />
         <item itemvalue="Python.BeautifulArray" />
         <item itemvalue="Python.FINANCE" />
         <item itemvalue="Python.bitmanipulation" />
-        <item itemvalue="Python.chefrestaurant" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618747562970</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="aztestprep">
+      <created>1620105598337</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1620105598337</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
