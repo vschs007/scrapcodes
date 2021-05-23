@@ -1,6 +1,7 @@
 def isvalid(arr, i, j, n):
-    if i >= 0 and i < n and j >=0 and j < n:
+    if 0 <= i < n and j >= 0 and j < n:
         return True
+
 
 def maze(arr, i, j, n, visited):
     if i == n - 1 and j == n - 1:
@@ -9,16 +10,16 @@ def maze(arr, i, j, n, visited):
         return
     visited[i][j] = 1
     if isvalid(arr, i, j, n):
-        if isvalid(arr, i - 1, j, n) and visited[i - 1][j]==0 and arr[i-1][j] == 0:
+        if isvalid(arr, i - 1, j, n) and visited[i - 1][j] == 0 and arr[i - 1][j] == 0:
             maze(arr, i - 1, j, n, visited)
 
-        if isvalid(arr, i + 1, j, n) and visited[i + 1][j] == 0 and arr[i+1][j] == 0:
+        if isvalid(arr, i + 1, j, n) and visited[i + 1][j] == 0 and arr[i + 1][j] == 0:
             maze(arr, i + 1, j, n, visited)
 
-        if isvalid(arr, i, j - 1, n) and visited[i][j - 1] == 0 and arr[i][j-1] == 0:
+        if isvalid(arr, i, j - 1, n) and visited[i][j - 1] == 0 and arr[i][j - 1] == 0:
             maze(arr, i, j - 1, n, visited)
 
-        if isvalid(arr, i, j + 1, n) and visited[i][j + 1] == 0 and arr[i][j+1] == 0:
+        if isvalid(arr, i, j + 1, n) and visited[i][j + 1] == 0 and arr[i][j + 1] == 0:
             maze(arr, i, j + 1, n, visited)
 
         visited[i][j] = 0
