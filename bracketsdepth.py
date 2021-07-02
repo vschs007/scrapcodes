@@ -14,14 +14,14 @@ for i in range(0,len(s)):
         count+=1
         if(len(arr)==0):
             start=i
-            resarr.append()
+            resarr.append(arr)
             #prevcount=count
             count=0
 
 
 print(resarr)
-#Keymax = max(resarr, key=resarr.get)
-#print(Keymax)
+Keymax = max(resarr, key=resarr.get)
+print(Keymax)
 
 
 

@@ -1,5 +1,5 @@
 s = "}}}}}}}}}}}}}}"
-print(len(s))
+#print(len(s))
 arr=[]
 for i in range(len(s)):
     if(s[i]=="(" or s[i]=="{" or s[i]=="["):
@@ -26,7 +26,7 @@ for i in range(len(s)):
             arr.pop()
     print(arr)
 
-print(arr)
+#print(arr)
 if(len(arr)==0):
     print("True")
 else:
