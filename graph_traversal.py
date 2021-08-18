@@ -28,10 +28,11 @@ class graph:
         #paths.sort()
         return paths
 
-routes=[("Mumbai","Paris"),("Mumbai","Dubai"),("Paris","Dubai"),("Paris","NY")]
+#routes=[("Mumbai","Paris"),("Mumbai","Dubai"),("Paris","Dubai"),("Paris","NY")]
+routes = [(1, 2), (2, 3), (3, 5), (4, 5)]
 
-start= "Mumbai"
-end = "Dubai"
+start= 1
+end = 5
 gobject = graph(routes)
 
 print(gobject.getpath(start,end))
