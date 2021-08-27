@@ -1,28 +1,17 @@
-a=[2,3,4]
-c=[3,4,3]
-la=len(a)
-arr=[]
-for i in range(la):
-    possible=True
-    aval=a[i]
-    for j in range(la):
-        curr=(i+j)%la
-        next=(curr+1)%la
-        aval=aval-c[curr]
-        if(aval<0):
-            possible =False
-            break
-        else:
-            aval = aval + a[next]
-    if(possible):
-        arr.append(i)
-    else:
-        arr.append(-1)
+gas = [5,1,2,3,4]
+cost = [4,4,1,5,1]
+sp=0
+curr=0
+gasremains=0
+for i in range(len(gas)):
+    gasremains+=gas[i]-cost[i]
+    curr+=gas[i]-cost[i]
+    if(curr<0):
+        sp=sp+1
+        curr=0
 
-arr=(list(set(arr)))
-arr.remove(-1)
-if(len(arr) !=0):
-    print(min(arr))
+if(gasremains>=0):
+    print(sp)
 else:
     print(-1)
 
