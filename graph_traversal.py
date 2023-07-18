@@ -28,11 +28,28 @@ class graph:
         #paths.sort()
         return paths
 
+
 #routes=[("Mumbai","Paris"),("Mumbai","Dubai"),("Paris","Dubai"),("Paris","NY")]
-routes = [(1, 2), (2, 3), (3, 5), (4, 5)]
+n =int(input())
+inputarr=[]
+for i in range(n):
+    inputarr.append(int(input()))
 
-start= 1
-end = 5
+routes=[]
+k = int(input())
+for i in range(k):
+    routes.append(list(map(int,input().split())))
+
+print(routes)
+
+#routes = [[2, 9], [7 ,2], [7, 9], [9, 5]]
+
+start= int(input())
+end = int(input())
 gobject = graph(routes)
-
-print(gobject.getpath(start,end))
+resarr = (gobject.getpath(start,end))
+#maxList = min(resarr, key = len)
+if len(resarr)>0:
+    print("1")
+else:
+    print(("0"))

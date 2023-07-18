@@ -13,5 +13,4 @@ for i in range(len(temp)):
 
     res.append([temp[i],maxcount])
     maxcount = 0
-
 print(res)

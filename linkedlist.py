@@ -21,8 +21,18 @@ third = Node(3)
 
 llist.head.next =second
 second.next =third
+llist.printlist()
 
+def push(self ,node):
+    newnode = Node(node)
+    newnode.next = self.head
+    self.head = newnode
+
+push(llist,456)
 
 llist.printlist()
+
+
+
 
 

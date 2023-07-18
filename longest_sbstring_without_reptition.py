@@ -13,3 +13,6 @@ class Solution:
             cur_len += 1
             max_len = max(max_len, cur_len)
         return max_len
+
+s= Solution()
+print(s.lengthOfLongestSubstring("abcdefaabbccddeef"))

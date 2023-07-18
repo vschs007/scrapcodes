@@ -28,14 +28,113 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86e4560a-b03f-4b2a-8a9b-407daf337c54" name="Default Changelist" comment="keypad combination">
-      <change afterPath="$PROJECT_DIR$/killas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maxrepetitonconsecutive_letter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nokia_keypad.py" afterDir="false" />
+    <list default="true" id="86e4560a-b03f-4b2a-8a9b-407daf337c54" name="Default Changelist" comment="nth node from end">
+      <change afterPath="$PROJECT_DIR$/againbitwise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/am.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazonprice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/antipalindrone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrdemonstrate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrnum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awatermelon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/balindex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chefserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chickpox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circlegame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cisco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ciscopatt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classcar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cntsebits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combinationsum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dazzlinggcd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divby7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divide-two-integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fairstring_gfg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flposition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/freqcount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goodarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hckevm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insertpos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jumpgame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juspayreachability.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlist_merger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longest_valid_brackets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longestnonrepeatingsubstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longestpalindrsubstr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longestsubstrwithmax2dist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longpalsubstr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lptest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masterseq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxby5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meanmax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mggrid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minwindowsubstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mostfreqkelements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naging_react_newbie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nlp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nonpal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/number_permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optimalsort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palindromelinkedlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parking_lot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prefixzero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/princessfarida.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rdptest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/revlinkedlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/riffle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shighest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smallestpalindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sortrtte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spilt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spoool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlcheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squaresum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squidgame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starters21first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subsegment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testestest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validparen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vsizeslidingwindows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wildcardmatching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xored.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TESTSORT.py" beforeDir="false" afterPath="$PROJECT_DIR$/TESTSORT.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abstractclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/abstractclass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gasStation.py" beforeDir="false" afterPath="$PROJECT_DIR$/gasStation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01knapsack.py" beforeDir="false" afterPath="$PROJECT_DIR$/01knapsack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MINWINDOW.py" beforeDir="false" afterPath="$PROJECT_DIR$/MINWINDOW.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MexOptimize.py" beforeDir="false" afterPath="$PROJECT_DIR$/MexOptimize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PATTERN.py" beforeDir="false" afterPath="$PROJECT_DIR$/PATTERN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ROTATEandoperate.py" beforeDir="false" afterPath="$PROJECT_DIR$/ROTATEandoperate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countsetbits.py" beforeDir="false" afterPath="$PROJECT_DIR$/countsetbits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doublebasepalindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/doublebasepalindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faridarecursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/faridarecursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph_traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph_traversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/longest_sbstring_without_reptition.py" beforeDir="false" afterPath="$PROJECT_DIR$/longest_sbstring_without_reptition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maxrepetitonconsecutive_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/maxrepetitonconsecutive_letter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movezeroes.py" beforeDir="false" afterPath="$PROJECT_DIR$/movezeroes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlineards.py" beforeDir="false" afterPath="$PROJECT_DIR$/nlineards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subsetsum.py" beforeDir="false" afterPath="$PROJECT_DIR$/subsetsum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ugliness.py" beforeDir="false" afterPath="$PROJECT_DIR$/ugliness.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validparenthesess.py" beforeDir="false" afterPath="$PROJECT_DIR$/validparenthesess.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +167,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1bFjD5olPmncBUNUs4ESa6TJl6k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -76,8 +178,8 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/submission assignment 1/submission assignment 1" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -92,7 +194,7 @@
       <recent name="C:\Users\india\PycharmProjects\scrapcodes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.maxrepetitonconsecutive_letter">
+  <component name="RunManager" selected="Python.divide-two-integers">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="scrapcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="abstractclass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="am-icpc_team" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrapcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +230,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abstractclass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/am-icpc_team.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +239,73 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maxrepetitonconsecutive_letter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="arrdemonstrate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_USE_CYTHON" value="NO" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrdemonstrate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="combinationsum" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="scrapcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_USE_CYTHON" value="NO" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/combinationsum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="divide-two-integers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_USE_CYTHON" value="NO" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/divide-two-integers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="heat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scrapcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +318,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maxrepetitonconsecutive_letter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +327,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="noikakeypad2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="nlp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_USE_CYTHON" value="0" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../codes/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nlp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="optimalsort" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="scrapcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,29 +362,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/noikakeypad2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="nokia_keypad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="scrapcodes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="PYDEVD_USE_CYTHON" value="NO" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nokia_keypad.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/optimalsort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,20 +393,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="transposeofmatrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="squidgame" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="scrapcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="PYDEVD_USE_CYTHON" value="0" />
+        <env name="PYDEVD_USE_CYTHON" value="NO" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/../codes/venv/bin/python" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transposeofmatrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/squidgame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ugliness" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="scrapcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_USE_CYTHON" value="NO" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ugliness.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,20 +438,24 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.optimalsort" />
       <item itemvalue="Python.roratedarray_fasoos" />
-      <item itemvalue="Python.abstractclass" />
-      <item itemvalue="Python.transposeofmatrix" />
-      <item itemvalue="Python.nokia_keypad" />
-      <item itemvalue="Python.noikakeypad2" />
-      <item itemvalue="Python.maxrepetitonconsecutive_letter" />
+      <item itemvalue="Python.squidgame" />
+      <item itemvalue="Python.ugliness" />
+      <item itemvalue="Python.combinationsum" />
+      <item itemvalue="Python.am-icpc_team" />
+      <item itemvalue="Python.heat" />
+      <item itemvalue="Python.nlp" />
+      <item itemvalue="Python.arrdemonstrate" />
+      <item itemvalue="Python.divide-two-integers" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.maxrepetitonconsecutive_letter" />
-        <item itemvalue="Python.noikakeypad2" />
-        <item itemvalue="Python.nokia_keypad" />
-        <item itemvalue="Python.transposeofmatrix" />
-        <item itemvalue="Python.abstractclass" />
+        <item itemvalue="Python.divide-two-integers" />
+        <item itemvalue="Python.arrdemonstrate" />
+        <item itemvalue="Python.nlp" />
+        <item itemvalue="Python.heat" />
+        <item itemvalue="Python.am-icpc_team" />
       </list>
     </recent_temporary>
   </component>
@@ -277,182 +471,350 @@
       <option name="presentableId" value="Default" />
       <updated>1588234612098</updated>
     </task>
-    <task id="LOCAL-00001" summary="submit">
-      <created>1588234802079</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+    <task id="LOCAL-00032" summary="fibo dp">
+      <created>1633269717626</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
       <option name="project" value="LOCAL" />
-      <updated>1588234802079</updated>
+      <updated>1633269717626</updated>
     </task>
-    <task id="LOCAL-00002" summary="submit">
-      <created>1588489597086</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+    <task id="LOCAL-00033" summary="codechef KTTABLE python">
+      <created>1634054711332</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
       <option name="project" value="LOCAL" />
-      <updated>1588489597086</updated>
+      <updated>1634054711332</updated>
     </task>
-    <task id="LOCAL-00003" summary="submit">
-      <created>1588590480184</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+    <task id="LOCAL-00034" summary="codechef KTTABLE python">
+      <created>1634877555636</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
       <option name="project" value="LOCAL" />
-      <updated>1588590480184</updated>
+      <updated>1634877555636</updated>
     </task>
-    <task id="LOCAL-00004" summary="swap&#10;#without comma or bracket">
-      <created>1590333362611</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+    <task id="LOCAL-00035" summary="cout set bits in a range,">
+      <created>1634878700854</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
       <option name="project" value="LOCAL" />
-      <updated>1590333362611</updated>
+      <updated>1634878700854</updated>
     </task>
-    <task id="LOCAL-00005" summary="try catch naam hai c to f table hai ye">
-      <created>1590872646472</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
+    <task id="LOCAL-00036" summary="bmi">
+      <created>1637687091160</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
       <option name="project" value="LOCAL" />
-      <updated>1590872646472</updated>
+      <updated>1637687091160</updated>
     </task>
-    <task id="LOCAL-00006" summary="last word leetcode">
-      <created>1591157604958</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+    <task id="LOCAL-00037" summary="patternpy">
+      <created>1638422772903</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
       <option name="project" value="LOCAL" />
-      <updated>1591157604958</updated>
+      <updated>1638422772903</updated>
     </task>
-    <task id="LOCAL-00007" summary="2240 ms">
-      <created>1593236379154</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
+    <task id="LOCAL-00038" summary="balanced parentheses with char , az coding interview">
+      <created>1638693818675</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
       <option name="project" value="LOCAL" />
-      <updated>1593236379154</updated>
+      <updated>1638693818675</updated>
     </task>
-    <task id="LOCAL-00008" summary="2240 ms leetcode">
-      <created>1593236467752</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
+    <task id="LOCAL-00039" summary="track price changes flipkart">
+      <created>1639630750211</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
       <option name="project" value="LOCAL" />
-      <updated>1593236467752</updated>
+      <updated>1639630750211</updated>
     </task>
-    <task id="LOCAL-00009" summary="LONGESTpalindromicSubstring">
-      <created>1611466610101</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
+    <task id="LOCAL-00040" summary="linkedlist">
+      <created>1640062490567</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
       <option name="project" value="LOCAL" />
-      <updated>1611466610101</updated>
+      <updated>1640062490567</updated>
     </task>
-    <task id="LOCAL-00010" summary="rock papaer scissors">
-      <created>1611897271672</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
+    <task id="LOCAL-00041" summary="move zeroes leetcode 98% faster">
+      <created>1640100640366</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
       <option name="project" value="LOCAL" />
-      <updated>1611897271672</updated>
+      <updated>1640100640366</updated>
     </task>
-    <task id="LOCAL-00011" summary="aztestprep">
-      <created>1615957728948</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
+    <task id="LOCAL-00042" summary="boat to save people leetcode">
+      <created>1640150654306</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
       <option name="project" value="LOCAL" />
-      <updated>1615957728948</updated>
+      <updated>1640150654306</updated>
     </task>
-    <task id="LOCAL-00012" summary="aztestprep">
-      <created>1618747562970</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
+    <task id="LOCAL-00043" summary="valid mountain array leetcode">
+      <created>1640157461133</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
       <option name="project" value="LOCAL" />
-      <updated>1618747562970</updated>
+      <updated>1640157461133</updated>
     </task>
-    <task id="LOCAL-00013" summary="aztestprep">
-      <created>1620105598337</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
+    <task id="LOCAL-00044" summary="codeforces global round 18 problem A">
+      <created>1640365976486</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
       <option name="project" value="LOCAL" />
-      <updated>1620105598337</updated>
+      <updated>1640365976486</updated>
     </task>
-    <task id="LOCAL-00014" summary="stupid machine">
-      <created>1620408293999</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
+    <task id="LOCAL-00045" summary="romantic reversals codechef">
+      <created>1640526126966</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
       <option name="project" value="LOCAL" />
-      <updated>1620408293999</updated>
+      <updated>1640526126966</updated>
     </task>
-    <task id="LOCAL-00015" summary="BFS">
-      <created>1624895924124</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
+    <task id="LOCAL-00046" summary="LONG WORDS CODEFORCES">
+      <created>1640752795752</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
       <option name="project" value="LOCAL" />
-      <updated>1624895924124</updated>
+      <updated>1640752795752</updated>
     </task>
-    <task id="LOCAL-00016" summary="balanced parentheses using stack">
-      <created>1625030235299</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
+    <task id="LOCAL-00047" summary="find first and last position in sorted list leetcode">
+      <created>1640946082721</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
       <option name="project" value="LOCAL" />
-      <updated>1625030235299</updated>
+      <updated>1640946082721</updated>
     </task>
-    <task id="LOCAL-00017" summary="closest sum , (htstar)">
-      <created>1625230513044</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
+    <task id="LOCAL-00048" summary="leetcode missing number python">
+      <created>1640947264687</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
       <option name="project" value="LOCAL" />
-      <updated>1625230513044</updated>
+      <updated>1640947264687</updated>
     </task>
-    <task id="LOCAL-00018" summary="closest sum , (htstar)">
-      <created>1625230667952</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
+    <task id="LOCAL-00049" summary="COUNT PRIMES LESS THAN N">
+      <created>1641110796638</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
       <option name="project" value="LOCAL" />
-      <updated>1625230667952</updated>
+      <updated>1641110796639</updated>
     </task>
-    <task id="LOCAL-00019" summary="equimex(rebel foods)">
-      <created>1625675077177</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
+    <task id="LOCAL-00050" summary="count pairs with sum gfg">
+      <created>1641132407888</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
       <option name="project" value="LOCAL" />
-      <updated>1625675077177</updated>
+      <updated>1641132407889</updated>
     </task>
-    <task id="LOCAL-00020" summary="equimex(rebel foods)">
-      <created>1627536823747</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
+    <task id="LOCAL-00051" summary="codeforces stable rooks placement">
+      <created>1641227737265</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
       <option name="project" value="LOCAL" />
-      <updated>1627536823747</updated>
+      <updated>1641227737266</updated>
     </task>
-    <task id="LOCAL-00021" summary="today's">
-      <created>1629259584521</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
+    <task id="LOCAL-00052" summary="andor">
+      <created>1641404082132</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
       <option name="project" value="LOCAL" />
-      <updated>1629259584521</updated>
+      <updated>1641404082133</updated>
     </task>
-    <task id="LOCAL-00022" summary="decorators">
-      <created>1629728890109</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
+    <task id="LOCAL-00053" summary="andor">
+      <created>1642015950048</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
       <option name="project" value="LOCAL" />
-      <updated>1629728890110</updated>
+      <updated>1642015950063</updated>
     </task>
-    <task id="LOCAL-00023" summary="abstract class test&#10;keylogger">
-      <created>1629733408129</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
+    <task id="LOCAL-00054" summary="minimum window substring">
+      <created>1642159312089</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
       <option name="project" value="LOCAL" />
-      <updated>1629733408129</updated>
+      <updated>1642159312090</updated>
     </task>
-    <task id="LOCAL-00024" summary="matrix transpose">
-      <created>1629774904108</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
+    <task id="LOCAL-00055" summary="01 knapsack recursive">
+      <created>1642698302021</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
       <option name="project" value="LOCAL" />
-      <updated>1629774904108</updated>
+      <updated>1642698302021</updated>
     </task>
-    <task id="LOCAL-00025" summary="keypad combination">
-      <created>1629868662639</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
+    <task id="LOCAL-00056" summary="01 knapsack memoization">
+      <created>1642742037392</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
       <option name="project" value="LOCAL" />
-      <updated>1629868662639</updated>
+      <updated>1642742037392</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00057" summary="gcdarray codeforces">
+      <created>1642870164869</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1642870164869</updated>
+    </task>
+    <task id="LOCAL-00058" summary="ram sales codeforces">
+      <created>1642870193752</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1642870193752</updated>
+    </task>
+    <task id="LOCAL-00059" summary="sort rotated array logn">
+      <created>1643107379064</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1643107379064</updated>
+    </task>
+    <task id="LOCAL-00060" summary="nary tree">
+      <created>1645074857574</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1645074857575</updated>
+    </task>
+    <task id="LOCAL-00061" summary="remove element inplace">
+      <created>1646658472845</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1646658472846</updated>
+    </task>
+    <task id="LOCAL-00062" summary="dp top down subset sum">
+      <created>1649212132708</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1649212132709</updated>
+    </task>
+    <task id="LOCAL-00063" summary="dp top down subset sum + added recursive approach too, and see the code comments for future use">
+      <created>1649220129298</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1649220129299</updated>
+    </task>
+    <task id="LOCAL-00064" summary="equal sum partition ,">
+      <created>1649242349535</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1649242349535</updated>
+    </task>
+    <task id="LOCAL-00065" summary="double base palindrome hackerrank">
+      <created>1649303440142</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1649303440143</updated>
+    </task>
+    <task id="LOCAL-00066" summary="balancearray codeforces">
+      <created>1649564219353</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1649564219353</updated>
+    </task>
+    <task id="LOCAL-00067" summary="greycode generator recursive">
+      <created>1651039172485</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1651039172486</updated>
+    </task>
+    <task id="LOCAL-00068" summary="cycle in the linkedlist">
+      <created>1652111414436</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1652111414437</updated>
+    </task>
+    <task id="LOCAL-00069" summary="swap without temp">
+      <created>1652365825865</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1652365825867</updated>
+    </task>
+    <task id="LOCAL-00070" summary="bubble sort">
+      <created>1652592156502</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1652592156502</updated>
+    </task>
+    <task id="LOCAL-00071" summary="missing 2 values">
+      <created>1652613349988</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1652613350003</updated>
+    </task>
+    <task id="LOCAL-00072" summary="coin change">
+      <created>1655902971687</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1655902971687</updated>
+    </task>
+    <task id="LOCAL-00073" summary="longest substring with atleast k repetitions">
+      <created>1656940499348</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1656940499348</updated>
+    </task>
+    <task id="LOCAL-00074" summary="longest consecurive sequence">
+      <created>1657029803866</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1657029803866</updated>
+    </task>
+    <task id="LOCAL-00075" summary="codechef">
+      <created>1659715645608</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1659715645609</updated>
+    </task>
+    <task id="LOCAL-00076" summary="princess farida spoj python solution">
+      <created>1660892802810</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1660892802812</updated>
+    </task>
+    <task id="LOCAL-00077" summary="princess farida spoj python solution recursion">
+      <created>1660894073018</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1660894073018</updated>
+    </task>
+    <task id="LOCAL-00078" summary="fb hacker cup 2022">
+      <created>1661614990770</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1661614990771</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Find the Index of the First Occurrence in a String">
+      <created>1665763307624</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1665763307624</updated>
+    </task>
+    <task id="LOCAL-00080" summary="nth node from end">
+      <created>1689666995982</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1689666995983</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -480,26 +842,35 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="submit" />
-    <MESSAGE value="swap&#10;#without comma or bracket" />
-    <MESSAGE value="try catch naam hai c to f table hai ye" />
-    <MESSAGE value="last word leetcode" />
-    <MESSAGE value="2240 ms" />
-    <MESSAGE value="2240 ms leetcode" />
-    <MESSAGE value="LONGESTpalindromicSubstring" />
-    <MESSAGE value="rock papaer scissors" />
-    <MESSAGE value="aztestprep" />
-    <MESSAGE value="stupid machine" />
-    <MESSAGE value="BFS" />
-    <MESSAGE value="balanced parentheses using stack" />
-    <MESSAGE value="closest sum , (htstar)" />
-    <MESSAGE value="equimex(rebel foods)" />
-    <MESSAGE value="today's" />
-    <MESSAGE value="decorators" />
-    <MESSAGE value="abstract class test&#10;keylogger" />
-    <MESSAGE value="matrix transpose" />
-    <MESSAGE value="keypad combination" />
-    <option name="LAST_COMMIT_MESSAGE" value="keypad combination" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Price-Change-notification-on-Amazon-Flipkart-using-Python" />
+    </ignored-roots>
+    <MESSAGE value="01 knapsack memoization" />
+    <MESSAGE value="gcdarray codeforces" />
+    <MESSAGE value="ram sales codeforces" />
+    <MESSAGE value="sort rotated array logn" />
+    <MESSAGE value="nary tree" />
+    <MESSAGE value="remove element inplace" />
+    <MESSAGE value="dp top down subset sum" />
+    <MESSAGE value="dp top down subset sum + added recursive approach too, and see the code comments for future use" />
+    <MESSAGE value="equal sum partition ," />
+    <MESSAGE value="double base palindrome hackerrank" />
+    <MESSAGE value="balancearray codeforces" />
+    <MESSAGE value="greycode generator recursive" />
+    <MESSAGE value="cycle in the linkedlist" />
+    <MESSAGE value="swap without temp" />
+    <MESSAGE value="bubble sort" />
+    <MESSAGE value="missing 2 values" />
+    <MESSAGE value="coin change" />
+    <MESSAGE value="longest substring with atleast k repetitions" />
+    <MESSAGE value="longest consecurive sequence" />
+    <MESSAGE value="codechef" />
+    <MESSAGE value="princess farida spoj python solution" />
+    <MESSAGE value="princess farida spoj python solution recursion" />
+    <MESSAGE value="fb hacker cup 2022" />
+    <MESSAGE value="Find the Index of the First Occurrence in a String" />
+    <MESSAGE value="nth node from end" />
+    <option name="LAST_COMMIT_MESSAGE" value="nth node from end" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -513,16 +884,6 @@
           <url>file://$PROJECT_DIR$/am-icpc_team.py</url>
           <line>2</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/validparenthesesusingstack.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/validparenthesesusingstack.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/mexsubarray.py</url>
@@ -548,21 +909,6 @@
           <url>file://$PROJECT_DIR$/jpmc.py</url>
           <line>4</line>
           <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/validparenthesess.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/validparenthesess.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/validparenthesess.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/smallestnumber.py</url>
@@ -618,6 +964,194 @@
           <url>file://$PROJECT_DIR$/nokia_keypad.py</url>
           <line>2</line>
           <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ROTATEandoperate.py</url>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ROTATEandoperate.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ROTATEandoperate.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/xorandcount.py</url>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/xorandcount.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fibodp.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/aliceandmessages.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/countsetbits.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/countsetbits.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/boat_to_Save_people.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ugliness.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FIRSTOCC.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/countprime.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/nonrepeat.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rooksplacement.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rooksplacement.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/minwindowsubstring.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01knapsack.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ramkharid.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gcdarray.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sortrtte.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/starrayII.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/traversal.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/palindromelinkedlist.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/remove_element.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wildcardmatching.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ciscopatt.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/doublebasepalindrome.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jumpgame.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/squaresum.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/coach.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/validparen.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mostfreqkelements.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/longestconsecutivesequence.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/combinationsum.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/combinationsum.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dividddd.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="209" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>

@@ -6,9 +6,9 @@ def countSetBits(n):
 
     return count
 
-l =9
+l =2
 res = countSetBits(l)
-k=8
+k=5
 r=l+1
 if res >= k:
     print(l)
@@ -17,7 +17,7 @@ while(True):
         print(r)
         break
     else:
-        k -= countSetBits(r)
+        k-= countSetBits(r)
         r+=1
 
 

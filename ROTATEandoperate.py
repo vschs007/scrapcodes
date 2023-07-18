@@ -13,15 +13,16 @@ def minDiffSubArray(arr, n):
             minDiff = diff
     return minDiff
 
-arr = [2,1,3]
-t1 =[[1,0],[1,2]]   #1 means right rotate, 2 means left rotat
+arr = [1,2,3,4]
+t1 =[[1,1],[1,3],[2,2]]   #1 means right rotate, 2 means left rotat
 finares=[]
 for i in range(len(t1)):
     if t1[i][0] ==1:
-        tempresarr = arr[t1[i][1]:]+arr[:t1[i][1]]
+        tempresarr = arr[-t1[i][1]:]+arr[:-t1[i][1]]
+        print(tempresarr)
         finares.append(minDiffSubArray(tempresarr,len(tempresarr)))
-    else:
-        tempresarr = arr[len(arr)-t1[i][1]:] + arr[:len(arr)-t1[i][1]]
+    elif t1[i][0] ==2:
+        tempresarr =  arr[t1[i][1]:] + arr[:t1[i][1]]
         finares.append(minDiffSubArray(tempresarr,len(tempresarr)))
 
 print(finares)

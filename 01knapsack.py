@@ -18,6 +18,7 @@ capacity = 60
 n=len(weight)
 global t
 t=[[-1]*(n+1)]*(n+1)
+#print(t)
 print(knapsack(weight,cost,capacity,n))
 
 

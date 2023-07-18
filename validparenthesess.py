@@ -1,6 +1,4 @@
 import sys
-
-
 def isValid(s):
     c = []
     if s[0] in [')','}',']']:
