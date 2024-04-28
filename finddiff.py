@@ -1,14 +1,12 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        s = sorted(s)
-        t = sorted(t)
-        t = list(t)
-        for i in range(len(s)):
-            if s[i]!=t[i]:
-                return t[i]
-        return t[i+1]
+        map = {}
+        for c in s:
+            # add to hashmap
+            map[c] = map.get(c, 0) + 1
 
+        for c in t:
+            if c not in map or map[c] == 0:
+                return c
+            map[c] -= 1
 
-s = Solution()
-
-print(s.findTheDifference("ae","aea"))
